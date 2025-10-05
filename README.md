@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftmacantikk" alt="ftmacantikk" /></a> </p>
 
-- 🌱 I’m currently learning **I'm currently learning C, C++, and python**
+- 🌱 I’m currently learning **C, C++, and python**
 
 - 💬 Ask me about **I'm an Informatics student at Universitas Jenderal Soedirman with a passion for IT. I enjoy learning how technology can create engaging and rewarding user experiences.**
 
